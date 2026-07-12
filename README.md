@@ -100,10 +100,7 @@ The following diagram illustrates the complete Kerberos authentication workflow,
 - Kerberos Tickets (TGT & TGS)
 - LSASS Credential Dumping
 - Active Directory Replication
-- Windows Remote Management
-- Windows Management Instrumentation
-- SMB
-- DCOM
+- Lateral Movement
 
 ---
 
