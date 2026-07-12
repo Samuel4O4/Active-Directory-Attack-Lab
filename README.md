@@ -129,8 +129,6 @@ This lab demonstrates:
 ```text
 Active-Directory-Lab/
 │
-├── Documentation/
-│
 ├── Images/
 │   ├── Architecture.png
 │   ├── Banner.png
