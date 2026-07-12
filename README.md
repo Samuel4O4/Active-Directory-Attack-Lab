@@ -19,7 +19,7 @@
 The complete walkthrough, explanations, screenshots, and attack demonstrations are available on Notion.
 
 **🔗 Notion Documentation:**  
-> *Replace this with your public Notion link*
+> (https://www.notion.so/Active-Directory-Its-Attacks-389d8b0f2d9880679567f17f49d61941?source=copy_link)
 
 ---
 
